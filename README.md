@@ -27,7 +27,7 @@ npm start
 
 
 ### Screenshots
-![Home Page](regina/screenshoot/HomePage.png)
+![Home Page](https://github.com/patluu66/regina/blob/master/screenshoot/HomePage.png?raw=true)
 
 ### Dependencies Used
 
