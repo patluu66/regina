@@ -27,7 +27,7 @@ npm start
 
 
 ### Screenshots
-![Alt text](/relative/path/to/HomePage.png?raw=true "Login Page")
+![Alt text](regina/screenshoot/HomePage.png?raw=true "Login Page")
 
 ### Dependencies Used
 
