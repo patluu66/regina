@@ -1,0 +1,197 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.App {
+  height: 768px;
+  /* background-color: grey; */
+  vertical-align: middle;
+}
+
+.logoDiv {
+  height: 768px;
+  /* background-color: yellow; */
+  vertical-align: middle;
+}
+
+.airCenter {
+  color: #55a5eb;
+  font-size: 45px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 239px 0 0 0;
+  vertical-align: middle;
+}
+
+.smallLogo {
+  color: #55a5eb;
+  font-size: 25px;
+  margin: 14px 0 0 10px;
+}
+
+.SignInButton {
+  color: #55a5eb;
+  background-color: none;
+  border: none;
+  padding: 10px 0px 10px 0px;
+}
+
+.signin3 {
+  /* background-color: blue; */
+  /* align: right; */
+  /* position: absolute;
+  /* right: 20px; */
+  margin: 10px 0 0 335px;
+  display: flex;
+  width: 143px;
+}
+
+.container {
+  margin: 0 0 0 0;
+}
+
+
+.loginProfile {
+  margin: 10px 0 10px 40px;
+}
+
+.logoCol {
+  margin: 0 0 0 0;
+}
+
+.navBarTop {
+  margin: 0 0 0 -226px;
+  padding: 0 0 0 0;
+}
+
+.profileImg {
+  margin: 0px 10px 0px 10px;
+  width: 51px;
+  height: 55%;
+}
+
+.dropdownButton {
+  margin: 10px 3px 10px 10px;
+  border: none;
+  background-color: none;
+  color: #55a5eb;
+}
+
+.phoneCol {
+  /* border: solid; */
+  width: 106px;
+  height: 800px;
+  margin: 0 0 0 0px;
+}
+
+.weatherCol {
+  border: ridge;
+  width: 480px;
+  height: 700px;
+  overflow: auto;
+  margin: 0 0 60px 0;
+}
+
+.messageCol {
+  border: ridge;
+  width: 524px;
+  height: 700px;
+  overflow: auto;
+  /* margin: 10px; */
+}
+
+.setting {
+  width: 41px;
+  height: 42px;
+  margin: 15px;
+  /* border: solid;
+  border-color: #55a5eb; */
+}
+
+.phone {
+  /* border: solid;
+  border-color: #55a5eb; */
+  width: 40px;
+  height: 40px;
+  margin: 15px;
+}
+
+.analystic {
+  /* border: solid;
+  border-color: #55a5eb; */
+  width: 40px;
+  height: 40px;
+  margin: 15px;
+}
+
+.printChat {
+  height: 300px;
+  width: 402px;
+  /* overflow: scroll; */
+  overflow: auto;
+  border: ridge;
+  text-align: left;
+  margin: 0 0 0 22px;
+  /* min-height: 100%; */
+  /* min-height: 20rem; */
+}
+
+.inputMessage {
+  width: 351px;
+}
+
+.formMessage {
+  margin: 0 0 0 0;
+  /* padding: 0 87px 0 0; */
+}
+
+.BeachImage {
+  width: 401px;
+  /* height: 50px; */
+  /* float: left; */
+}
+
+.ReactPlayer {
+  width: 50px;
+  height: auto;
+}
+
+.weatherBox {
+  /* display: flex; */
+}
+
+/* .chatName {
+  color: blue;
+} */
+
+
+/* .bodyMainPage {
+  height: 2000px;
+  background-color: grey;
+} */
