@@ -27,7 +27,7 @@ npm start
 
 
 ### Screenshots
-![Alt text](regina/screenshoot/HomePage.png?raw=true "Login Page")
+![Home Page](regina/screenshoot/HomePage.png)
 
 ### Dependencies Used
 
